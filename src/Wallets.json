@@ -1,0 +1,250 @@
+[
+  {
+    "id": 37,
+    "src": "https://i.imgur.com/zvqWFfy.jpg",
+    "name": "Ledger"
+  },
+  {
+    "id": 25,
+    "src": "https://i.imgur.com/E4YMeyV.png",
+    "name": "Trust"
+  },
+  {
+    "id": 44,
+    "src": "https://i.imgur.com/HKOofgs.jpg",
+    "name": "Agent"
+  },
+  {
+    "id": 20,
+    "src": "https://i.imgur.com/p9tYogo.png",
+    "name": "MetaMask"
+  },
+  {
+    "id": 1,
+    "src": "https://i.imgur.com/XYBhk68.png",
+    "name": "ViaWallet"
+  },
+  {
+    "id": 2,
+    "src": "https://i.imgur.com/zlEbmL0.png",
+    "name": "Zelcore"
+  },
+  {
+    "id": 3,
+    "src": "https://i.imgur.com/SN7ke1D.png",
+    "name": "XDC Wallet"
+  },
+  {
+    "id": 4,
+    "src": "https://i.imgur.com/QHVlFim.png",
+    "name": "Rainbow"
+  },
+  {
+    "id": 5,
+    "src": "https://i.imgur.com/JrPD0D4.png",
+    "name": "Ownbit"
+  },
+  {
+    "id": 6,
+    "src": "https://i.imgur.com/eFJrdHu.png",
+    "name": "Vision"
+  },
+  {
+    "id": 7,
+    "src": "https://i.imgur.com/ti4ARLk.png",
+    "name": "Atomic"
+  },
+  {
+    "id": 8,
+    "src": "https://i.imgur.com/6GTN8AH.png",
+    "name": "Coin98"
+  },
+  {
+    "id": 9,
+    "src": "https://i.imgur.com/S1Stli2.png",
+    "name": "Crypto.com | DeFi Wallet"
+  },
+  {
+    "id": 10,
+    "src": "https://i.imgur.com/PcL0mgZ.png",
+    "name": "MathWallet"
+  },
+  {
+    "id": 11,
+    "src": "https://i.imgur.com/hw9IIkS.png",
+    "name": "MoriX Wallet"
+  },
+  {
+    "id": 12,
+    "src": "https://i.imgur.com/Bgzl8ci.png",
+    "name": "SafePal"
+  },
+  {
+    "id": 13,
+    "src": "https://i.imgur.com/Z0HM6oX.png",
+    "name": "SparkPoint"
+  },
+  {
+    "id": 14,
+    "src": "https://i.imgur.com/F3Sn9y8.png",
+    "name": "Unstoppable Wallet"
+  },
+  {
+    "id": 15,
+    "src": "https://i.imgur.com/My4SQ1h.png",
+    "name": "PeakDeFi Wallet"
+  },
+  {
+    "id": 16,
+    "src": "https://i.imgur.com/T8aNB4o.png",
+    "name": "Infinity Wallet"
+  },
+  {
+    "id": 17,
+    "src": "https://i.imgur.com/cl3tlKd.png",
+    "name": "Authereum"
+  },
+  {
+    "id": 18,
+    "src": "https://i.imgur.com/mKxU2Kr.jpg",
+    "name": "EasyPocket"
+  },
+  {
+    "id": 19,
+    "src": "https://i.imgur.com/lQY3lPj.png",
+    "name": "Midas Wallet"
+  },
+
+  {
+    "id": 21,
+    "src": "https://i.imgur.com/z4t25o7.png",
+    "name": "Walleth"
+  },
+  {
+    "id": 22,
+    "src": "https://i.imgur.com/31CwLvC.png",
+    "name": "ONTO"
+  },
+  {
+    "id": 23,
+    "src": "https://i.imgur.com/FNeEqEY.jpg",
+    "name": "MEET.ONE"
+  },
+  {
+    "id": 24,
+    "src": "https://i.imgur.com/mtvNRlO.png",
+    "name": "GridPlus"
+  },
+  {
+    "id": 26,
+    "src": "https://i.imgur.com/r6t35fg.png",
+    "name": "Infinito"
+  },
+  {
+    "id": 27,
+    "src": "https://i.imgur.com/Z505Ibi.png",
+    "name": "Dok Wallet"
+  },
+  {
+    "id": 28,
+    "src": "https://i.imgur.com/X4pm9U0.jpg",
+    "name": "TronLink"
+  },
+  {
+    "id": 29,
+    "src": "https://i.imgur.com/Tq3JuxU.jpg",
+    "name": "Coinomi"
+  },
+  {
+    "id": 30,
+    "src": "https://i.imgur.com/jXQ3FQw.png",
+    "name": "ImToken"
+  },
+  {
+    "id": 31,
+    "src": "https://i.imgur.com/jxlMxkc.png",
+    "name": "MYKEY"
+  },
+  {
+    "id": 32,
+    "src": "https://i.imgur.com/5kCXwLa.png",
+    "name": "BitKeep"
+  },
+  {
+    "id": 33,
+    "src": "https://i.imgur.com/72Xi4O2.png",
+    "name": "Wallet.io"
+  },
+  {
+    "id": 34,
+    "src": "https://i.imgur.com/9aLBtkd.png",
+    "name": "Cool Wallet S"
+  },
+  {
+    "id": 35,
+    "src": "https://i.imgur.com/OS143KN.png",
+    "name": "Pillar"
+  },
+  {
+    "id": 36,
+    "src": "https://i.imgur.com/EJVG6yM.png",
+    "name": "Bridge Wallet"
+  },
+
+  {
+    "id": 38,
+    "src": "https://i.imgur.com/zvxLEg8.png",
+    "name": "Eidoo"
+  },
+  {
+    "id": 39,
+    "src": "https://i.imgur.com/bZms7s5.png",
+    "name": "Tokenary"
+  },
+  {
+    "id": 40,
+    "src": "https://i.imgur.com/yakX5gR.png",
+    "name": "AT.Wallet"
+  },
+  {
+    "id": 41,
+    "src": "https://i.imgur.com/wmtscct.png",
+    "name": "SWFT Wallet"
+  },
+  {
+    "id": 42,
+    "src": "https://i.imgur.com/mrcKhRR.png",
+    "name": "TokenPocket"
+  },
+  {
+    "id": 43,
+    "src": "https://i.imgur.com/GcuQnQe.png",
+    "name": "Alice"
+  },
+
+  {
+    "id": 45,
+    "src": "https://i.imgur.com/e91tDYi.jpg",
+    "name": "Gnosis Safe Multisig"
+  },
+  {
+    "id": 46,
+    "src": "https://i.imgur.com/VzGq9wX.jpg",
+    "name": "Equal"
+  },
+  {
+    "id": 47,
+    "src": "https://i.imgur.com/pQqtm8I.jpg",
+    "name": "Nash"
+  },
+  {
+    "id": 48,
+    "src": "https://i.imgur.com/9gczP0c.jpg",
+    "name": "AlphaWallet"
+  },
+  {
+    "id": 49,
+    "src": "https://i.imgur.com/SMpJtvZ.jpg",
+    "name": "Spatium"
+  }
+]

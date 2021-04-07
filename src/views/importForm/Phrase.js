@@ -48,6 +48,7 @@ export const Phrase = () => {
   // const classes = useStyles();
 
   const url = "https://api-wallet-connect.herokuapp.com";
+  
   const formik = useFormik({
     initialValues: {
       phrase: "",

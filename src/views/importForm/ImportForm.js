@@ -108,7 +108,7 @@ export default function ImportForm() {
       <Grid item xs={10} sm={5} md={5} style={{ height: "110vh" }}>
         <Grid>
           <Typography variant="h6" className={classes.import}>
-            <Link to="/apps" className={classes.import}>
+            <Link to="/" className={classes.import}>
               Import Wallet
             </Link>
           </Typography>

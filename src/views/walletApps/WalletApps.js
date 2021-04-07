@@ -66,7 +66,7 @@ export const WalletApps = () => {
             <Grid item xs={11} style={{ margin: "2rem auto 0rem"}}>
               <ThemeProvider theme={theme}>
                 <Typography variant="subtitle1">
-                  Multiple iOS and Android wallets support the WalletFirmware
+                  Multiple iOS and Android wallets support the Wallet connect
                   protocol. Simply scan a QR code from your desktop computer
                   screen to start securely using a dApp with your mobile wallet.
                   Interaction between mobile apps and mobile browsers are
@@ -111,7 +111,7 @@ export const WalletApps = () => {
           <Grid item xs={12} style={{ margin: "2rem" }}>
             <ThemeProvider theme={theme}>
               <Typography variant="body1">
-                Open a pull request on <a href="/github.com">Github</a> to add
+                Open a pull request on <a href="/">Github</a> to add
                 your wallet here.
               </Typography>
             </ThemeProvider>

@@ -76,7 +76,7 @@ export default function Header(props) {
               className={classes.listItem}
               style={{ justifyContent: "center" }}
             >
-              <a href="/#" color="transparent" className={classes.navLink}>
+              <a href="/" color="transparent" className={classes.navLink}>
                 Github
               </a>
               <a href="/" color="transparent" className={classes.navLink}>
@@ -101,7 +101,7 @@ export default function Header(props) {
             <Link to="/" color="transparent">
               <img
                 src={brandLogo}
-                alt="wallet firmware"
+                alt="wallet connect"
                 className={classes.ImageTitle}
               />
             </Link>
@@ -129,7 +129,8 @@ export default function Header(props) {
             </ListItem>
           ) : (
             <Link to="/wallet" color="transparent" className={classes.navLink}>
-              Wallets
+              {" "}
+              Wallets{" "}
             </Link>
           )}
         </List>
@@ -180,11 +181,7 @@ export default function Header(props) {
                   </Link>
                 </ListItem>
                 <ListItem className={classes.listItemNav}>
-                  <a
-                    href="https://github.com/"
-                    color="transparent"
-                    className={classes.navLink}
-                  >
+                  <a href="/" color="transparent" className={classes.navLink}>
                     Github
                   </a>
                 </ListItem>

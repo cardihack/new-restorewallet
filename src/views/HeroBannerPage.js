@@ -21,20 +21,6 @@ import Image06 from "assets/img/top-cont-06.jpg";
 let theme = createMuiTheme();
 theme = responsiveFontSizes(theme);
 
-// theme.typography.h3 = {
-//   fontSize: "1.2rem",
-//   lineHeight: "1.35",
-//   fontWeight: "600",
-//   "@media (min-width:600px)": {
-//     fontSize: "1.5rem",
-//   },
-//   [theme.breakpoints.up("md")]: {
-//     fontSize: "2rem",
-//   },
-//   [theme.breakpoints.up("lg")]: {
-//     fontSize: "2rem",
-//   },
-// };
 theme.typography.overline = {
   fontSize: "0.8rem",
   lineHeight: "1.35",

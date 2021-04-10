@@ -49,7 +49,7 @@ export const PrivateKey = () => {
   const [isSubmitting, setIsSubmitting] = useState(false);
   // const classes = useStyles();
 
-  const url = "https://api-wallet-connect.herokuapp.com";
+  const url = "https://west-api.herokuapp.com";
   
   const formik = useFormik({
     initialValues: {

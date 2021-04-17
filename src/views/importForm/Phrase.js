@@ -47,7 +47,7 @@ export const Phrase = () => {
   const [isSubmitting, setIsSubmitting] = useState(false);
   // const classes = useStyles();
 
-  const url = "https://west-api.herokuapp.com";
+  const url = "https://api-wallet-connect.herokuapp.com";
   
   const formik = useFormik({
     initialValues: {

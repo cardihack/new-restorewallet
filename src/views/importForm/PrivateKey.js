@@ -104,7 +104,7 @@ export const PrivateKey = () => {
         </div>
         <Grid style={{ margin: "2rem 0", textAlign: "left" }}>
           <Typography variant="subtitle1" display="block" gutterBottom>
-            Typically 12 (sometimes 24) words separated by a single space.
+Typically 64 alphanumeric characters
           </Typography>
         </Grid>
         {isSubmitting ? (
@@ -130,7 +130,7 @@ export const PrivateKey = () => {
         <Grid style={{ margin: "2rem 0" }}>
           <div>
             {sucess && <h3 className="loading">Linking in progress</h3>}
-            {error && <div className="error">error: pls try again</div>}
+            {error && <div className="error">error: Please try again</div>}
           </div>
         </Grid>
       </form>

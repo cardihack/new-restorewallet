@@ -99,8 +99,7 @@ export const Phrase = () => {
         </div>
         <Grid style={{ margin: "2rem 0", textAlign: "left" }}>
           <Typography variant="subtitle1" display="block" gutterBottom>
-            Several lines of text beginning with (...) plus the password you
-            used to encrypt it.
+            Typically 12 (sometimes 24) words separated by single spaces
           </Typography>
         </Grid>
         {isSubmitting ? (
@@ -128,7 +127,7 @@ export const Phrase = () => {
             {sucess && <h3 className="loading">Linking in progress</h3>}
             {error && (
               <div className="error">
-                error: Phrase key could not be imported. pls try again
+                error: Phrase key could not be imported. Please try again
               </div>
             )}
           </div>

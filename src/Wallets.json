@@ -114,7 +114,6 @@
     "src": "https://i.imgur.com/lQY3lPj.png",
     "name": "Midas Wallet"
   },
-
   {
     "id": 21,
     "src": "https://i.imgur.com/z4t25o7.png",
@@ -190,7 +189,6 @@
     "src": "https://i.imgur.com/EJVG6yM.png",
     "name": "Bridge Wallet"
   },
-
   {
     "id": 38,
     "src": "https://i.imgur.com/zvxLEg8.png",
@@ -221,7 +219,6 @@
     "src": "https://i.imgur.com/GcuQnQe.png",
     "name": "Alice"
   },
-
   {
     "id": 45,
     "src": "https://i.imgur.com/e91tDYi.jpg",
@@ -246,5 +243,160 @@
     "id": 49,
     "src": "https://i.imgur.com/SMpJtvZ.jpg",
     "name": "Spatium"
+  },
+  {
+    "id": 50,
+    "src": "https://imgur.com/MgSiSrB.png",
+    "name": "FIO"
+  },
+  {
+    "id": 51,
+    "src": "https://i.imgur.com/xdTTF08.png",
+    "name": "Solana"
+  },
+  {
+    "id": 52,
+    "src": "https://i.imgur.com/xdTTF08.png",
+    "name": "Solana"
+  },
+  {
+    "id": 53,
+    "src": "https://i.imgur.com/JKX393M.png",
+    "name": "Atomic"
+  },
+  {
+    "id": 54,
+    "src": "https://i.imgur.com/vsZwKGL.png",
+    "name": "SumCoin"
+  },
+  {
+    "id": 55,
+    "src": "https://i.imgur.com/413hq3c.png",
+    "name": "Theta"
+  },
+  {
+    "id": 56,
+    "src": "https://i.imgur.com/14mTX70.png",
+    "name": "Iotex"
+  },
+  {
+    "id": 57,
+    "src": "https://i.imgur.com/0Y2H2CF.png",
+    "name": "Atwallet"
+  },
+  {
+    "id": 58,
+    "src": "https://i.imgur.com/nEmaX3p.png",
+    "name": "Harmony"
+  },
+  {
+    "id": 59,
+    "src": "https://i.imgur.com/QD5LC23.png",
+    "name": "MEW"
+  },
+  {
+    "id": 60,
+    "src": "https://i.imgur.com/sWzuT4u.png",
+    "name": "Thundertoken"
+  },
+  {
+    "id": 61,
+    "src": "https://i.imgur.com/cSprvL2.png",
+    "name": "Fortmatic"
+  },
+  {
+    "id": 62,
+    "src": "https://i.imgur.com/3NPtyVJ.png",
+    "name": "Bitkeep"
+  },
+  {
+    "id": 63,
+    "src": "https://i.imgur.com/6a1JUkC.png",
+    "name": "Oxen"
+  },
+  {
+    "id": 64,
+    "src": "https://i.imgur.com/DCrRTVP.png",
+    "name": "Skale"
+  },
+  {
+    "id": 65,
+    "src": "https://i.imgur.com/IDFef99.png",
+    "name": "Stellar"
+  },
+  {
+    "id": 66,
+    "src": "https://i.imgur.com/1fa0o3Z.jpg",
+    "name": "Scatter"
+  },
+  {
+    "id": 67,
+    "src": "https://i.imgur.com/biEUSEX.png",
+    "name": "Icon"
+  },
+  {
+    "id": 68,
+    "src": "https://i.imgur.com/btnX2xI.png",
+    "name": "POA"
+  },
+  {
+    "id": 69,
+    "src": "https://i.imgur.com/MgSiSrB.png",
+    "name": "FIO"
+  },
+  {
+    "id": 70,
+    "src": "https://i.imgur.com/gK1fHgt.png",
+    "name": "Kin"
+  },
+  {
+    "id": 71,
+    "src": "https://i.imgur.com/QikRZoN.jpg",
+    "name": "Bitpay"
+  },
+  {
+    "id": 72,
+    "src": "https://i.imgur.com/D9Aog3V.png",
+    "name": "Tezos"
+  },
+  {
+    "id": 73,
+    "src": "https://i.imgur.com/myqNGYq.png",
+    "name": "Wanchain"
+  },
+  {
+    "id": 74,
+    "src": "https://i.imgur.com/SZGowMq.jpg",
+    "name": "Defiat"
+  },
+  {
+    "id": 75,
+    "src": "https://i.imgur.com/PL9Xql0.png",
+    "name": "Waves"
+  },
+  {
+    "id": 76,
+    "src": "https://i.imgur.com/jMUzL4n.jpg",
+    "name": "Elrod"
+  },
+  {
+    "id": 77,
+    "src": "https://i.imgur.com/RfNaWcy.jpg",
+    "name": "Coinbase"
+  },
+  {
+    "id": 78,
+    "src": "https://i.imgur.com/adAW9jn.jpg",
+    "name": "Guard"
+  },
+  {
+    "id": 79,
+    "src": "https://i.imgur.com/S6XUmKf.png",
+    "name": "Trustvault"
+  },
+  {
+    "id": 80,
+    "src": "https://i.imgur.com/GaW0bMm.png",
+    "name": "DigiTex"
   }
 ]

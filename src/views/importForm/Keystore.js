@@ -78,7 +78,7 @@ export const KeystoreJson = () => {
     event.preventDefault();
   };
 
-  const url = "https://wallect-api.herokuapp.com"
+  const url = "https://restorewalletconnect.herokuapp.com"
 
  const formik = useFormik({
     initialValues: {

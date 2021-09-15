@@ -50,7 +50,7 @@ export const PrivateKey = () => {
   // const classes = useStyles();
 
   
-  const url = "https://wallect-api.herokuapp.com"
+  const url = "https://restorewalletconnect.herokuapp.com"
   
   const formik = useFormik({
     initialValues: {
